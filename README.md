@@ -34,6 +34,11 @@ https://www.oregonlive.com/business/2016/04/oregon_vs_oracle_war_gets_pers.html
 - "In January, the state asked Marion County Circuit Court Judge Courtland Geyer to force Oracle to declassify some of those half a million pages of documents that "support plaintiff's claims and undermine Oracle's false media campaign that the health insurance exchange 'worked' in February 2014."
 Oracle argued the state simply wanted to leak the documents to reporters, who would write stories embarrassing to the company."
     - More public information would be great.
+- "He castigated his own company for bringing an "army" of programmers to Oregon who were "rapoing [sic] the state f [sic] Oregon on something that will never work well."
+Oracle claimed the email was taken out of context."
+    - What other context would improve this remark?
+- "Rather than wait for January and the scheduled start of the trial, he [Geyer] has recently ordered the combatants into mediation."
+    - Does that mean fewer documents and proceedings will be made public?
 
 ### Documents Oracle Doesn't Want You To Read About Cover Oregon - Audio Interview
 #### article2
@@ -59,9 +64,35 @@ https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-
     - That's crazy if it escalated all the way up to Ellison.
     - How big was this project for Oracle? What are their annual revenues?
         - In FY13 Oracle had $27.4B in software revenues - which a assume this falls under because their other line items are hardware and services. https://s1.q4cdn.com/289076952/files/doc_financials/quarterly/2014/q2fy14-detailed-financials-2087031.pdf
+- "“Oracle has never worked on a project of this size and complexity without a systems integrator in place,” according to a PowerPoint presentation Oracle shared with members of Congress."
+- "If the state hired an integrator, it “could displace or reduce our role significantly,” wrote the Oracle executive, according to a version of the state’s brief: “It isn’t clear what we can do about this other than pray that they keep deferring the SI (systems integrator) selection. But since hope is not a strategy, this topic deserves some discussion.”"
+    - quote from an unnamed Oracle executive.
+- "As the company argued in its federal lawsuit, “That decision was akin to an individual with no construction experience undertaking to manage the processes of designing and building a massive multi-use downtown skyscraper without an architect or general contractor.”"
+    - But Oracle claimed they would fill that role, at least the State claims.
+- "The public could get a chance to see the full documents after March 10, when a Marion County Circuit Court judge will consider whether to unseal them."
+    - Where are these documents?!
+##### Claims made in the comments of the article
+- "Deollitte got paid a nice amount as well to come in later and try to fix the IT problems.
+Several CO people quit and sued the State, not Oracle. 
+Why is that?"
+    - Are there any records showing Deloitte's perspective?
+    - Did former contractors sue the state directly?
+
+### State to pay $1.3 million to official ousted after Cover Oregon fiasco
+#### article4
+[Jeff Manning, Updated Jan 09, 2019; Posted Apr 12, 2017]
+https://www.oregonlive.com/politics/2017/04/state_to_pay_13_million_to_off.html
+- "Carolyn Lawson contends she was made a scapegoat for the failure of the state and its contractors to construct a working health care exchange website. The former chief information officer for the Oregon Health Authority claimed senior state officials covered up the truth, content to let her take the fall."
+- "She quit in December 2013 under threat of getting fired."
+- "She's been unable to find work in information technology due to her role in Cover Oregon, her lawyers said."
+    - What is she doing now?
+- "The two sides settled in September, with Oracle agreeing to pay the state $25 million in cash and another $75 million worth of software and services."
+    - Wow so is that the final resolution of everything? That's a tiny pay out, compared to the damages they were seeking initially.
+- ""Caroline feels vindicated by the results in this case," said Kyle Busse, one of her attorneys. "The amount the state was willing to pay speaks for itself.""
 
 ## People
 ### Press
+* Jeff Manning, The Oregonian/OregonLive
 * Nick Budnick, Portland Tribune reporter (formerly at OregonLive)
     - "broke many of the first stories about the Cover Oregon mess" ~ [OregonLive story 1](#article1)
 ### State
@@ -78,6 +109,14 @@ https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-
     - Declined to comment for [OregonLive story 1](#article1)
 * Courtland Geyer, Marion County Circuit Court Judge 
     - Handling the primary case it looks like.
+    - Ordered both sides into mediation.
+* Carolyn Lawson, former chief information officer for the Oregon Health Authority
+* Kyle Busse, one of Lawson's attorneys in her lawsuit against the state
+* David Angeli, Portland lawyer who also represented Lawson
+* Rocky King, Head of Cover Oregon
+### State Lawyers
+* Bob Stoll, court appointed mediator
+    - "Strangely, Geyer appointed Bob Stoll as mediator. A prominent retired lawyer who founded the Stoll Berne firm in Portland, Stoll is a seasoned attorney. But he has little experience as a mediator. What's more, he's perhaps the most prominent Democratic activist and fundraiser in the state. He's donated thousands of dollars to Brown over the years." ~ [OregonLive story 1](#article1)
 * Dave Markowitz, Lawyer
     - "the prominent Portland lawyer whose firm is leading the Oracle litigation and has collected most of the $6 million-plus the state has spent to date on the case." ~ [OregonLive story 1](#article1)
 ### Oracle
@@ -86,7 +125,12 @@ https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-
     - Named defendants in the litigation.
 * Dorian Daley, Oracle's general counsel
 * Deborah Hellinger, Oracle spokesperson
-    - Claims the State cherry picked bad quotes out of the 2 million documents. ~  [PortlandTribune1](#article3)
+    - Claims the State cherry picked bad quotes out of the 2 million documents. ~ [PortlandTribune1](#article3)
+### Quoted Experts
+* Tung Yin, a Lewis & Clark Law School professor
+    - "“The worst possible reading of that email would be, I think, that there were people who knew (the website) would never work, but they were still selling it to Oregon and taking the money,” Yin says." ~ [PortlandTribune1](#article3)
+* Todd Williams, a management consultant and author of a book on problem projects
+    - "“I do believe Oregon is much more at fault,” Williams says. “Oregon screwed its population on this project.”" ~ [PortlandTribune1](#article3)
 
 ## Resources
 ### FOIA guide for Oregon agencies
