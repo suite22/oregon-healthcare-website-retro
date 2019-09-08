@@ -107,6 +107,30 @@ https://arstechnica.com/tech-policy/2014/08/oregon-attorney-general-sues-oracle-
 https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
 - "Cover Oregon sued Oregon on Friday seeking $23 million."
     - ? What? Cover Oregon sued Oregon or Oracle? And why only $23M?
+- "In the complaint filed Friday, Oracle says the state's poor management doomed the exchange."
+    - They included a link to the complaint!
+        - http://media.oregonlive.com/business_impact/other/oracle2.pdf
+
+### Oregon Settles with Oracle Over Cover Oregon Fiasco
+#### article7
+[Colin Miner, Sep 15, 2016 2:13 pm ET]
+https://patch.com/oregon/portland/oregon-settles-oracle-over-cover-oregon-fiasco
+- "After more than one year of fighting, Oregon and Oracle have settled six lawsuits that stemmed from the Cover Oregon health exchange website fiasco."
+    - So yeah, the settlement wrapped up all the pending litigation.
+
+### Cover Oregon shows need for change, insider says
+#### article8
+https://pamplinmedia.com/pt/9-news/318118-194349-cover-oregon-shows-need-for-change-insider-says
+- "“I think people should understand why it failed,” Walsh says matter of factly, given how many people worked so hard on the ambitious project, and how much was spent."
+    - I agree.
+- "The reality, according to Walsh? Compared to other large projects, “It should have been easy.”"
+- "But he [Walsh] and his Oracle counterparts were repeatedly rebuffed in 2012 when they sought information from other parts of Oracle that they considered crucial to the project’s success, such as how massive quantities of data would fit together under the project’s design, he says."
+- "After a while, Walsh pursued a separate data design for his portion of the project to ensure his team was not held up. He credits that decision for his team’s success, as the financial side of Cover Oregon worked fine and was completed on time."
+    - So there were definitely some parts that worked at some point.
+- "In contrast, Walsh still recalls the shock his team felt in July 2013 upon seeing the design for how enrollment would work for the project. A colleague’s muttered reaction: “Well, that’s not going to work.”"
+- "Walsh was surprised to hear from Oracle in fall 2012 that the health insurance system its staff envisioned had no capacity to process mid-year changes in a family’s health policy, premiums or tax credits after they enrolled. ... The response? We’ll get to it later."
+    - So they weren't even aiming to implement everything initially... makes sense if you're shipping an MVP, but this was big ticket.
+- "Not until September 2013, the month before the project was supposed to go live, did Walsh and his team learn that Oracle’s design for the health insurance project still did not allow changes to a family’s policy or circumstances. This meant Cover Oregon would not be able to share data effectively with the insurance carriers it worked with — a basic problem that caused ripple effects throughout the project’s workings. ... This, Walsh believes, was the “fatal flaw” of Cover Oregon, and why the exchange had to be scrapped."
 
 ## People
 ### Press
@@ -132,6 +156,9 @@ https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
 * Kyle Busse, one of Lawson's attorneys in her lawsuit against the state
 * David Angeli, Portland lawyer who also represented Lawson
 * Rocky King, Head of Cover Oregon
+* Alex Pettit, the state’s top IT manager
+    - In his [resignation letter](https://s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/04/09132622/petitletter.pdf) to Governer Kate Brown he says, "We settled the Oracle dispute, offering the state the use of nearly all Oracle software products." 
+        - So is that why they settled for ongoing services from Oracle? They were holding the other products hostage until they settled?
 ### State Lawyers
 * Bob Stoll, court appointed mediator
     - "Strangely, Geyer appointed Bob Stoll as mediator. A prominent retired lawyer who founded the Stoll Berne firm in Portland, Stoll is a seasoned attorney. But he has little experience as a mediator. What's more, he's perhaps the most prominent Democratic activist and fundraiser in the state. He's donated thousands of dollars to Brown over the years." ~ [OregonLive story 1](#article1)
@@ -149,6 +176,12 @@ https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
     - "“The worst possible reading of that email would be, I think, that there were people who knew (the website) would never work, but they were still selling it to Oregon and taking the money,” Yin says." ~ [PortlandTribune1](#article3)
 * Todd Williams, a management consultant and author of a book on problem projects
     - "“I do believe Oregon is much more at fault,” Williams says. “Oregon screwed its population on this project.”" ~ [PortlandTribune1](#article3)
+* Tom Walsh, longtime technology specialist and veteran of the Cover Oregon project
+    - Quoted extensively in [this Portland Tribune article](#article8).
+    - "One of the roving breed of professional consultants who bounce from state to state for months or years at a time, Walsh is typically the top-dog “systems analyst” who either leads or troubleshoots large IT project design or is paid to watchdog those who do, says Shari Benkiel, a longtime IT consultant who has worked with Walsh on seven large projects in five states." ~ [Portland Tribune article](#article8)
+    - "Walsh applied and went to work on it in April 2012 as a consultant." ~ [Portland Tribune article](#article8)
+* Shari Benkiel, worked with Walsh
+* Louisa Moore, worked with Walsh
 
 ## Resources
 ### FOIA guide for Oregon agencies
@@ -157,3 +190,4 @@ https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
 ## Notes
 * "Cover Oregon" was a DBA for OREGON HEALTH
 INSURANCE EXCHANGE CORPORATION, a Public Corporation. From the legal complaint filed by Oracle.
+* Remember when Last Tonight did this - https://www.youtube.com/watch?v=Dh9munYYoqQ
