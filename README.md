@@ -117,9 +117,19 @@ https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
 https://patch.com/oregon/portland/oregon-settles-oracle-over-cover-oregon-fiasco
 - "After more than one year of fighting, Oregon and Oracle have settled six lawsuits that stemmed from the Cover Oregon health exchange website fiasco."
     - So yeah, the settlement wrapped up all the pending litigation.
+- "[the State has] spent more than $16 million to four law firms to fight the company."
+    - Which 4 firms?
+- ""Today's settlement agreement ends years of turmoil and taxpayer expense related to a troubled health exchange program I dissolved in March 2015," Governor Brown said on Thursday."
+    - Important date for the timeline.
+- "The settlement includes $25 million cash as well as a six-year Unlimited License Agreement (ULA) for products and services that can be leveraged by the Legislature to significantly modernize state government's IT systems, potentially saving the State hundreds of millions of dollars."
+    - The ULA just means use of any Oracle product? 
+- "The agreement also calls for $60 million in free customer service support, a $10 million grant for science, technology, engineering and math (STEM) programs in Oregon schools."
+    - So some of this money didn't even go back to the government, just loosely back into the state.
+- "While the state had won several early rounds against Oracle - include successfully keeping the case from being moved to federal court from state court - there was no guarantee that the state would prevail."
 
 ### Cover Oregon shows need for change, insider says
 #### article8
+[Nick Budnick, Thursday, August 11, 2016]
 https://pamplinmedia.com/pt/9-news/318118-194349-cover-oregon-shows-need-for-change-insider-says
 - "“I think people should understand why it failed,” Walsh says matter of factly, given how many people worked so hard on the ambitious project, and how much was spent."
     - I agree.
@@ -131,12 +141,41 @@ https://pamplinmedia.com/pt/9-news/318118-194349-cover-oregon-shows-need-for-cha
 - "Walsh was surprised to hear from Oracle in fall 2012 that the health insurance system its staff envisioned had no capacity to process mid-year changes in a family’s health policy, premiums or tax credits after they enrolled. ... The response? We’ll get to it later."
     - So they weren't even aiming to implement everything initially... makes sense if you're shipping an MVP, but this was big ticket.
 - "Not until September 2013, the month before the project was supposed to go live, did Walsh and his team learn that Oracle’s design for the health insurance project still did not allow changes to a family’s policy or circumstances. This meant Cover Oregon would not be able to share data effectively with the insurance carriers it worked with — a basic problem that caused ripple effects throughout the project’s workings. ... This, Walsh believes, was the “fatal flaw” of Cover Oregon, and why the exchange had to be scrapped."
+- "“The whole thing was going to have to be rewritten ... It was truly unbelievable that it would ever be designed that way,” Pettit told congressional investigators, adding that when he complained to Oracle about its design, the response was, “Well, it wasn’t in the specification.” Pettit’s retort: “Well, it didn’t need to be in the specification. You knew you had to keep track of changes to records, and the system wouldn’t keep track of it.”"
+- "For instance, the state spent months and millions of dollars trying to perfect a new type of interface to shift data between two components of the project. Walsh urged the use of a standard Oracle product instead. In the end, when an Oracle analyst confirmed to Cover Oregon managers that Walsh’s idea would work, a top official asked how long it would take to set up the solution."
+    - What does this mean technically, like what new data process where they trying to create?
+- "... management obsessed on the website’s appearance while ignoring the details of how it would work."
+    - That's not shocking, but sad to hear.
+- "Another problem that seems endemic to Oregon IT projects is cronyism, rather than hiring the best-qualified staff, Walsh says."
+    - That's a big charge.
+- "“They hire people they know,” Walsh says, “And then, when things don’t go well, they hire more people they know.”"
+    - Great quote.
+
+### Oracle claims it has proof Cover Oregon website worked
+#### article9
+[Chelsea Kopta, Monday, June 23rd 2014]
+https://katu.com/news/politics/oracle-claims-it-has-proof-cover-oregon-website-worked
+- Included video news segment
+    - Chelsea Kopta says they requested copies of the test case recordings from Oracle. Doesn't say if they ever got them.
+    - There's an interview with what looks like an Oracle spokesperson but no name or lower third is shown to say who the person is.
+    - They have recordings from a webinar showing how the system was intended to be used.
+    - There's images of a presentation Oracle made to US House Commerce and Energy committee. 
+- "Cover Oregon, unveiled a partial or "soft" launch, 141 days after it was supposed to go live."
+- "Cover Oregon also sent an email to agents that described the online portal."
+    - The link to the email is broken. The file is just named "Dear+Agents.pdf".
+- ""Oracle has been ready to release the website for public enrollment since February 2014, and urged Cover Oregon to do so, but Cover Oregon would not permit it," the presentation stated."
+    - Very interesting claim from Oracle.
+- ""Oracle is involved in a dozen exchanges," the presentation continued. "Oracle technology runs mission critical systems globally. Nowhere around the world does Oracle have issues with the customer like we face in Oregon.""
+- Whoa! The bottom of the article has over 20 links to reporting by KATU on the project failure. None of the links seem to work, but I'm curious if they're still available through archive.org...
+
 
 ## People
 ### Press
 * Jeff Manning, The Oregonian/OregonLive
 * Nick Budnick, Portland Tribune reporter (formerly at OregonLive)
     - "broke many of the first stories about the Cover Oregon mess" ~ [OregonLive story 1](#article1)
+* Chelsea Kopta, KATU 2 reporter
+    - Looks like she's now at National Geographic 
 ### State
 * John Kitzhaber, former Governer
     - He canceled the project in March 2014.
@@ -156,9 +195,12 @@ https://pamplinmedia.com/pt/9-news/318118-194349-cover-oregon-shows-need-for-cha
 * Kyle Busse, one of Lawson's attorneys in her lawsuit against the state
 * David Angeli, Portland lawyer who also represented Lawson
 * Rocky King, Head of Cover Oregon
+* Clyde Hamstreet, interim Executive Director of Cover Oregon
+    - [From KATU2 article](article9)
 * Alex Pettit, the state’s top IT manager
     - In his [resignation letter](https://s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/04/09132622/petitletter.pdf) to Governer Kate Brown he says, "We settled the Oracle dispute, offering the state the use of nearly all Oracle software products." 
         - So is that why they settled for ongoing services from Oracle? They were holding the other products hostage until they settled?
+    - Willamette Week article about his resignation - https://www.wweek.com/news/2018/04/09/oregons-chief-information-officer-alex-pettit-resigns/
 ### State Lawyers
 * Bob Stoll, court appointed mediator
     - "Strangely, Geyer appointed Bob Stoll as mediator. A prominent retired lawyer who founded the Stoll Berne firm in Portland, Stoll is a seasoned attorney. But he has little experience as a mediator. What's more, he's perhaps the most prominent Democratic activist and fundraiser in the state. He's donated thousands of dollars to Brown over the years." ~ [OregonLive story 1](#article1)
