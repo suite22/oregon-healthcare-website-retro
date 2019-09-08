@@ -7,9 +7,12 @@ I assume someone has already tried to FOIA it and I just haven't found it. If th
 2. What's been released as part of the ongoing lawsuits?
 There's 6 different lawsuits related to the project. How much was publicly released as part of those trials? 
 
+## Formatting
+*Note:* I'm using Markdown headers to create anchor links within the document. For example, `#### article1` creates an anchor which can be linked to with a Markdown link like `[example link](#anchor1)`.
+
 ## Reporting
 ### Oregon vs. Oracle: Legal war gets personal as company goes on the attack
-[OregonLiveArticle1](#article1)
+#### article1
 [Updated Jan 09, 2019; Posted Apr 08, 2016] 
 https://www.oregonlive.com/business/2016/04/oregon_vs_oracle_war_gets_pers.html
 - "Oracle claims the state tipped off a reporter about how to remove redactions in state documents hiding snippets of damaging Oracle internal emails."
@@ -33,7 +36,7 @@ Oracle argued the state simply wanted to leak the documents to reporters, who wo
     - More public information would be great.
 
 ### Documents Oracle Doesn't Want You To Read About Cover Oregon - Audio Interview
-[OPBArticle1](#article2)
+#### article2
 [Nick Budnick Portland Tribune Feb. 22, 2016 5:30 p.m.]
 https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-cover-oregon/
 - Audio interview with Nick Budnick.
@@ -43,7 +46,7 @@ https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-
     - March 2012 Oracle exec is quoted in an internal email that they tried to keep the State from hiring an oversight contractor.
 
 ### Documents damning on Oracle's Cover Oregon release
-[PortlandTribune1](#article3)
+#### article3
 [Nick Budnick Feb. 22, 2016]
 - "Last month [Jan 2016] the Oregon attorney general’s office submitted a 24-page brief in Marion County Circuit Court arguing that Oracle was wrongly classifying its internal documents as confidential."
     - Link to brief?
@@ -58,6 +61,10 @@ https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-
         - In FY13 Oracle had $27.4B in software revenues - which a assume this falls under because their other line items are hardware and services. https://s1.q4cdn.com/289076952/files/doc_financials/quarterly/2014/q2fy14-detailed-financials-2087031.pdf
 
 ## People
+### Press
+* Nick Budnick, Portland Tribune reporter (formerly at OregonLive)
+    - "broke many of the first stories about the Cover Oregon mess" ~ [OregonLive story 1](#article1)
+### State
 * John Kitzhaber, former Governer
     - He canceled the project in March 2014.
 * Kate Brown, current Governer
@@ -65,20 +72,21 @@ https://www.opb.org/news/article/documents-oracle-doesnt-want-you-to-read-about-
 * Ellen Rosenblum, State Attorney General 
     - According to [this OregonLive story](#article1) Rosenblum refused the governers order to settle the case for $25M.
 * Kristina Edmunson, Rosenblum's spokesperson
-* Dave Markowitz, Lawyer
-    - "the prominent Portland lawyer whose firm is leading the Oracle litigation and has collected most of the $6 million-plus the state has spent to date on the case." ~ [OregonLive story 1](#article1)
-* Ken Glueck, Oracle senior vice president and its pointman in the Oregon litigation
-* Safra Katz,  Oracle's president and chief financial officer
-    - Named defendants in the litigation.
 * Brian Shipley, former chief of staff for Kate Brown
     - "Once Brown replaced him, the Oracle mess landed in her lap. She dispensed her then-chief of staff Brian Shipley to settle the case." ~ [OregonLive story 1](#article1)
 * Kristen Grainger, Brown's spokesperson
     - Declined to comment for [OregonLive story 1](#article1)
-* Dorian Daley, Oracle's general counsel
 * Courtland Geyer, Marion County Circuit Court Judge 
     - Handling the primary case it looks like.
-* Nick Budnick, Portland Tribune reporter (formerly at OregonLive)
-    - "broke many of the first stories about the Cover Oregon mess" ~ [OregonLive story 1](#article1)
+* Dave Markowitz, Lawyer
+    - "the prominent Portland lawyer whose firm is leading the Oracle litigation and has collected most of the $6 million-plus the state has spent to date on the case." ~ [OregonLive story 1](#article1)
+### Oracle
+* Ken Glueck, Oracle senior vice president and its pointman in the Oregon litigation
+* Safra Katz,  Oracle's president and chief financial officer
+    - Named defendants in the litigation.
+* Dorian Daley, Oracle's general counsel
+* Deborah Hellinger, Oracle spokesperson
+    - Claims the State cherry picked bad quotes out of the 2 million documents. ~  [PortlandTribune1](#article3)
 
 ## Resources
 ### FOIA guide for Oregon agencies
