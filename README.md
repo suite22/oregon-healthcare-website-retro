@@ -7,6 +7,10 @@ I assume someone has already tried to FOIA it and I just haven't found it. If th
 2. What's been released as part of the ongoing lawsuits?
 There's 6 different lawsuits related to the project. How much was publicly released as part of those trials? 
 
+## Technical Failings
+1. The system was unable to update changes after initial enrollment. This design failure was called a ["fatal" flaw](#article8) that doomed the project from the beginning.
+2. Oracle initially promised that only 5% of their software would need to be customized for the site. It was later reported to be [closer to 40%](#article11).
+
 ## Formatting
 *Note:* I'm using Markdown headers to create anchor links within the document. For example, `#### article1` creates an anchor which can be linked to with a Markdown link like `[example link](#anchor1)`.
 
@@ -185,9 +189,17 @@ https://www.opb.org/news/series/vitalsigns/first-data-report-on-cover-oregon-pro
 - Audio from OPB. 
     - Kristian Foden-Vencil is the one answering questions about the reporting.
 - Bruce Goldberg resigning.
-- "only 5% of the software would need customization, instead it was closer to 40%"
-- Payment to Oracle was not tied to deliverables.
+- "the company told the state that only about 5 percent of it’s software would need custom configuration. In the end, it was more like 40 percent."
+- "Oracle specified that bills were to be paid on time and not tied to the completion of services. First Data said this approach departs from best practices and provided little financial accountability."
 - First Data interviewed 67 people, but not many Oracle people were made available.
+- "Well the federal Government Accountability Office has its own study into Cover Oregon and other state health care websites.  So we’ll wait for that to come out."
+    - Where is that report?
+
+### GAO to investigate Cover Oregon
+#### article12
+[Andrew Clevenger, March 6, 2014 at 08:48AM]
+https://www.bendbulletin.com/home/1853494-151/gao-to-investigate-cover-oregon
+- "The GAO confirmed its decision in separate letters Wednesday to Rep. Greg Walden, R-Hood River, and Sens. Jeff Merkley and Ron Wyden, both D-Ore."
 
 ## People
 ### Press
