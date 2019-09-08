@@ -86,9 +86,27 @@ https://www.oregonlive.com/politics/2017/04/state_to_pay_13_million_to_off.html
 - "She quit in December 2013 under threat of getting fired."
 - "She's been unable to find work in information technology due to her role in Cover Oregon, her lawyers said."
     - What is she doing now?
+        - Is this the same person? @carolynlawson
 - "The two sides settled in September, with Oracle agreeing to pay the state $25 million in cash and another $75 million worth of software and services."
     - Wow so is that the final resolution of everything? That's a tiny pay out, compared to the damages they were seeking initially.
 - ""Caroline feels vindicated by the results in this case," said Kyle Busse, one of her attorneys. "The amount the state was willing to pay speaks for itself.""
+
+### Oregon Attorney General sues Oracle for “racketeering activity”
+#### article5
+[Sean Gallagher, 8/25/2014, 9:34 AM]
+https://arstechnica.com/tech-policy/2014/08/oregon-attorney-general-sues-oracle-for-racketeering-activity/
+- "The 126-page complaint, filed by Rosenblum in Oregon’s Marion County Circuit Court on August 22, claims that Oracle pushed the state to not hire a systems integrator for the project, giving the company total control over the development of the site and allowing company executives to conceal problems with the software."
+    - Thankfully they included a link to the actual filing! Interesting that it's hosted by OregonLive.
+        - http://media.oregonlive.com/health_impact/other/FINAL%20Complaint%208_22_14.pdf
+- "... which allowed the company to conceal problems with software and essentially bill for fixes to the software that should have been covered under the license agreements for the software itself, the attorney general asserted."
+    - Is that because the underlying system Oracle was re-using were shared software systems created by Oracle for other project? Essensially, billing for fixes to the "commons" part of the software?
+
+### Cover Oregon: Oracle comes out swinging, files lawsuit, accuses Kitzhaber of 'campaign'
+#### article6
+[Jeff Manning, Updated Jan 10, 2019; Posted Aug 08, 2014]
+https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
+- "Cover Oregon sued Oregon on Friday seeking $23 million."
+    - ? What? Cover Oregon sued Oregon or Oracle? And why only $23M?
 
 ## People
 ### Press
@@ -135,3 +153,7 @@ https://www.oregonlive.com/politics/2017/04/state_to_pay_13_million_to_off.html
 ## Resources
 ### FOIA guide for Oregon agencies
 - https://twitter.com/OregonPRA/status/1159581147304624128
+
+## Notes
+* "Cover Oregon" was a DBA for OREGON HEALTH
+INSURANCE EXCHANGE CORPORATION, a Public Corporation. From the legal complaint filed by Oracle.
