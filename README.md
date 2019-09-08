@@ -116,6 +116,11 @@ https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
         - http://media.oregonlive.com/business_impact/other/oracle2.pdf
 - "In the lawsuit, Oracle points out, First Data, a company hired by the state to analyze what went wrong with the exchange project, "attributed a large part of the problems to Cover Oregon's mismanagement of the project.""
     - Who is First Data?
+        - Their report is [linked in notes below](#article13).
+- "Most Oracle contractors finally left the project this spring, but not before it extracted another $43.9 million from the state. In all, it was paid about $130 million. In the lawsuit, it claims it is owed at least another $23 million."
+    - So that would be spring of 2014.
+- "The company was hired by the Oregon Health Authority in the summer of 2011 as the lead technology contractor on on the exchange."
+    - Basically a 3 year project before it turned to litigation.
 
 ### Oregon Settles with Oracle Over Cover Oregon Fiasco
 #### article7
@@ -200,6 +205,23 @@ https://www.opb.org/news/series/vitalsigns/first-data-report-on-cover-oregon-pro
 [Andrew Clevenger, March 6, 2014 at 08:48AM]
 https://www.bendbulletin.com/home/1853494-151/gao-to-investigate-cover-oregon
 - "The GAO confirmed its decision in separate letters Wednesday to Rep. Greg Walden, R-Hood River, and Sens. Jeff Merkley and Ron Wyden, both D-Ore."
+- "According to the Centers for Medicaid and Medicare Services, Oregon received more than $300 million in federal grants to create the Cover Oregon exchange.
+That includes a $226.4 million phase two grant in January 2013 to cover expenses related to testing, training and implementation of the online exchange."
+
+### Governor Kitzhaber releases first data report, announces actions on Cover Oregon
+#### article13
+[PR from Governer's office, March 20, 2014]
+https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=579
+- "The report, based on 67 stakeholder interviews and the review of more than 3,200 documents"
+    - That sounds like a very small fraction of the total documents.
+- "The Governor called for the independent, third-party review of Cover Oregon in December 2013. First Data began its assessment in January, and the full, un-redacted report was released today on the Department of Administrative Services' website."
+    - Where's the link people...
+        - Found through search - https://katubim.s3.amazonaws.com/co_assessment%281%29.pdf
+            - Exhibit 1 at the end of the report includes a huge list of all the people they interviewed for the report!
+                - Bob Wort – Cover Oregon User Acceptance Test Manager
+                - Edward Screven (and Attorney) – Oracle Chief Corporate Architect
+- "The Governor has convened a team of information technology experts to advise Cover Oregon on IT options going forward. The team includes the Chief Information Officers of Legacy Health, Pacific Source, Kaiser Permanente, Providence, Moda, Bridgespan/Regence, and Oregon's Chief Information Officer."
+    - Who are all these people? What did they review and advise?
 
 ## People
 ### Press
