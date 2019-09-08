@@ -168,6 +168,13 @@ https://katu.com/news/politics/oracle-claims-it-has-proof-cover-oregon-website-w
 - ""Oracle is involved in a dozen exchanges," the presentation continued. "Oracle technology runs mission critical systems globally. Nowhere around the world does Oracle have issues with the customer like we face in Oregon.""
 - Whoa! The bottom of the article has over 20 links to reporting by KATU on the project failure. None of the links seem to work, but I'm curious if they're still available through archive.org...
 
+### Knute Buehler Slams Kate Brown for Cover Oregon—But That Fiasco Ended Before She Became Governor
+#### article10
+[Nigel Jaquiss, Published September 29, 2018  Updated September 30, 2018]
+https://www.wweek.com/news/2018/09/29/knute-beuhler-hits-kate-brown-for-cover-oregon-but-that-fiasco-ended-before-she-became-governor/
+- "In fact, while Brown served as secretary of state, her audits division commissioned an independent audit of Cover Oregon, which was published in March 2015, the month after Brown succeeded Kitzhaber as governor."
+    - Link to audit report! https://s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/09/29172915/coveroregonaudit.pdf
+        - Includes information about costs and budgeting. THe meat of it.
 
 ## People
 ### Press
