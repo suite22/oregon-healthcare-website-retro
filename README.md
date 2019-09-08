@@ -110,6 +110,8 @@ https://www.oregonlive.com/business/2014/08/oracle_cover_oregon_lawsuit.html
 - "In the complaint filed Friday, Oracle says the state's poor management doomed the exchange."
     - They included a link to the complaint!
         - http://media.oregonlive.com/business_impact/other/oracle2.pdf
+- "In the lawsuit, Oracle points out, First Data, a company hired by the state to analyze what went wrong with the exchange project, "attributed a large part of the problems to Cover Oregon's mismanagement of the project.""
+    - Who is First Data?
 
 ### Oregon Settles with Oracle Over Cover Oregon Fiasco
 #### article7
@@ -176,6 +178,17 @@ https://www.wweek.com/news/2018/09/29/knute-beuhler-hits-kate-brown-for-cover-or
     - Link to audit report! https://s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/09/29172915/coveroregonaudit.pdf
         - Includes information about costs and budgeting. THe meat of it.
 
+### Q&A: Gov. Releases Report On Cover Oregon Problems
+#### article11
+[Kristian Foden-Vencil, March 20, 2014 3:41 p.m. | Updated: March 27, 2014 10:38 a.m.]
+https://www.opb.org/news/series/vitalsigns/first-data-report-on-cover-oregon-problems/
+- Audio from OPB. 
+    - Kristian Foden-Vencil is the one answering questions about the reporting.
+- Bruce Goldberg resigning.
+- "only 5% of the software would need customization, instead it was closer to 40%"
+- Payment to Oracle was not tied to deliverables.
+- First Data interviewed 67 people, but not many Oracle people were made available.
+
 ## People
 ### Press
 * Jeff Manning, The Oregonian/OregonLive
@@ -208,6 +221,8 @@ https://www.wweek.com/news/2018/09/29/knute-beuhler-hits-kate-brown-for-cover-or
     - In his [resignation letter](https://s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/04/09132622/petitletter.pdf) to Governer Kate Brown he says, "We settled the Oracle dispute, offering the state the use of nearly all Oracle software products." 
         - So is that why they settled for ongoing services from Oracle? They were holding the other products hostage until they settled?
     - Willamette Week article about his resignation - https://www.wweek.com/news/2018/04/09/oregons-chief-information-officer-alex-pettit-resigns/
+* Bruce Goldberg, long-time government health chief
+    - Resigned as part of the [fallout](#article11). 
 ### State Lawyers
 * Bob Stoll, court appointed mediator
     - "Strangely, Geyer appointed Bob Stoll as mediator. A prominent retired lawyer who founded the Stoll Berne firm in Portland, Stoll is a seasoned attorney. But he has little experience as a mediator. What's more, he's perhaps the most prominent Democratic activist and fundraiser in the state. He's donated thousands of dollars to Brown over the years." ~ [OregonLive story 1](#article1)
