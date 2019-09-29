@@ -223,6 +223,19 @@ https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=579
 - "The Governor has convened a team of information technology experts to advise Cover Oregon on IT options going forward. The team includes the Chief Information Officers of Legacy Health, Pacific Source, Kaiser Permanente, Providence, Moda, Bridgespan/Regence, and Oregon's Chief Information Officer."
     - Who are all these people? What did they review and advise?
 
+### Cover Oregon: New executive director suspends Deloitte contract, more cuts likely
+#### article14
+[Jeff Manning, Updated Jan 10, 2019; Posted Apr 15, 2014]
+https://www.oregonlive.com/health/2014/04/cover_oregon_new_interim_execu.html
+- "Cover Oregon late last week severed one of its contracts with technology consultant Deloitte, the first of what could be a series of cost-cutting moves as the troubled operation enters a new era of fiscal austerity."
+    - So Deloitte came in at the end to try and clean things up.
+- "Clyde Hamstreet, the consultant recently hired to take over executive director duties at Cover Oregon"
+- "Deloitte has been working on Oregon's exchange for months. It designed the user-interface on the exchange's website. To date, it's been paid $7.65 million for that work."
+    - That's a lot less than the price tag for Oracle.
+- "Deloitte was tight-lipped about the suspension. "Deloitte fulfilled its contractual responsibilities to Cover Oregon and completed its assessment of the state's health insurance marketplace," said company spokesman Paul Dunker."
+- "Cover Oregon signed Hamstreet to a contract that pays his firm a maximum of $100,000. His stint at the organization is likely to last four to six weeks."
+    - Interesting that its so short.
+
 ## People
 ### Press
 * Jeff Manning, The Oregonian/OregonLive
@@ -250,7 +263,8 @@ https://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=579
 * David Angeli, Portland lawyer who also represented Lawson
 * Rocky King, Head of Cover Oregon
 * Clyde Hamstreet, interim Executive Director of Cover Oregon
-    - [From KATU2 article](article9)
+    - [From KATU2 article](#article9)
+    - [Surprise hire](#article14)
 * Alex Pettit, the state’s top IT manager
     - In his [resignation letter](https://s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2018/04/09132622/petitletter.pdf) to Governer Kate Brown he says, "We settled the Oracle dispute, offering the state the use of nearly all Oracle software products." 
         - So is that why they settled for ongoing services from Oracle? They were holding the other products hostage until they settled?
