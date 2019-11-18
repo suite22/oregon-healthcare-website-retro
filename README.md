@@ -17,9 +17,10 @@ There's 6 different lawsuits related to the project. How much was publicly relea
 ## Lawsuits
 ### State vs Oracle in Marion County
 #### lawsuit1
-Complaint from the state accusing Oracle of: "Fraud; Oregon False Claims Act; Breach of Contract; Oregon Racketeer Influenced and Corrupt Organtzations Act". Filed on 8/22/14.
-http://media.oregonlive.com/health_impact/other/FINAL%20Complaint%208_22_14.pdf
-[Highlights and notes](/Lawsuits/State-vs-Oracle.md).
+* [Highlights and notes](/Lawsuits/State-vs-Oracle.md)
+
+Complaint from the state accusing Oracle of: "Fraud; Oregon False Claims Act; Breach of Contract; Oregon Racketeer Influenced and Corrupt Organtzations Act". 
+Filed on 8/22/14.
 
 ## Reporting
 ### Oregon vs. Oracle: Legal war gets personal as company goes on the attack
