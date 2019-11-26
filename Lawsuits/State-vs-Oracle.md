@@ -23,7 +23,8 @@ By the summer of 2013 they reduced scope to drop the section of the site to allo
 “Without the website portal that the State and Cover Oregon had already paid Oracle more than $100,000,000 to build...” p5
 - So then how much was ultimately paid to Oracle?
 
-“In April (2014?) Cover Oregon staff identified 1198 errors that required repair....” - I assume these were bug reports or JIRA tickets? I’d love to see some of these tickets.
+“In April (2014?) Cover Oregon staff identified 1198 errors that required repair....” 
+- I assume these were bug reports or JIRA tickets? I’d love to see some of these tickets.
 
 “One developer experienced in Oracle products called Oracle’s programming ‘atrocious’. He added that ‘they broke every single best practice that Oracle themselves have defined. It is one of the worst assessments I have performed’ The same developer wrote to Oracle, ‘You are Oracle people, working on an Oracle hardware platform, with Oracle technology products, on an Oracle solution. Oracle should be delivering these environments and products as a solution, like they actually understood the products and owned the solution which has not been the case by a long shot.”  
 - Who is this person? How can I find them?
