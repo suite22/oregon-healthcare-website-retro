@@ -15,6 +15,7 @@ $240,280,008 p2
 “Oracle not only was responsible for all technology, it tightly controlled access to the software development environments, so that the State had to rely on Oracle’s demonstrations and reports to learn about Oracle’s progress on the Projects.” P4
 - How much of these environments was turned over or reported on during the lawsuits?
 
+## Cover Oregon transition
 Section 7 on page 4 is where things get interesting. The state handed over the project to the newly created Cover Oregon - “a State-created public corporation responsible for running Oregon’s health insurance exchange.” It just says the transition happed in 2013 and the site was set to launch on Oct 1st 2013. Oracle said it was nearly 80% complete, but when did they give that estimate? “Cover Oregon relied on Oracle’s statements and entered contracts with Oracle to complete the HIX-IT project.” 
 - I don’t understand why / how the contracts transferred like that. Was there new money allocated?
 
@@ -76,6 +77,7 @@ Oct 2010 US Dept of Health and Human services HHS offered “Early Innovator” 
 
 Once the state got the grant they decided to try and get a COTS solution that would solve both HIX and the modernization project. That sounds like a terrible idea from the beginning. The two things aren’t really all that related. 
 
+## Proposal Guidance
 DHS hired Wakely Consulting Group and KPMG LLP to provide guidance about the proposals. p17
 - Are both those groups are in Portland?
 

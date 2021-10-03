@@ -14,6 +14,9 @@ There's 6 different lawsuits related to the project. How much was publicly relea
 ## Formatting
 *Note:* I'm using Markdown headers to create anchor links within the document. For example, `#### article1` creates an anchor which can be linked to with a Markdown link like `[example link](#anchor1)`.
 
+### Obsidian
+To keep track of all the interrelated people and concepts I'm going to attempt to store information in linked Markdown files using [Obsidian](https://obsidian.md).
+
 ## Lawsuits
 ### State vs Oracle in Marion County
 #### lawsuit1
